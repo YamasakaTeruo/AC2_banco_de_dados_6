@@ -1,5 +1,4 @@
 # Atividade individual - Tema: Base de Dados Pizzaria (Modelo Lógico)
-
 ## Descrição
 introdução e implementação do modelo logico em banco de dados. 
 
